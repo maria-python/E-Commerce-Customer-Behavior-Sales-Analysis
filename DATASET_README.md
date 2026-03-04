@@ -127,9 +127,7 @@ By working with this dataset, you can learn:
 - Data visualization best practices
 - Business intelligence and reporting
 
-## 📝 Citation
 
-If you use this dataset in your research or project, please cite:
 
 ```
 E-Commerce Customer Behavior and Sales Dataset (2024)
@@ -137,20 +135,7 @@ Turkish Online Retail Platform Data (2023-2024)
 Available on Kaggle
 ```
 
-## ⚖️ License
+### License
 
 This dataset is released under the **CC0: Public Domain** license. You are free to use it for any purpose.
 
-## 🤝 Contribution
-
-Found any issues or have suggestions? Feel free to provide feedback!
-
-## 📞 Contact
-
-For questions or collaborations, please reach out through Kaggle.
-
----
-
-**Happy Analyzing! 🚀**
-
-*Keywords: e-commerce, customer behavior, sales analysis, Turkish market, retail analytics, machine learning, data science, customer segmentation, predictive analytics*
