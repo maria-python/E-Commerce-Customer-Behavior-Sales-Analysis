@@ -1,7 +1,14 @@
-# E-Commerce Sales Analysis  
-*By Maria Ilnitska | Portfolio Project*
+# E-Commerce Sales Analysis
 
-1. **Business Problem**
+By Maria Ilnitska | Data Analytics Portfolio Project
+
+## Project Overview
+
+This project analyzes customer behavior and sales performance for an e-commerce platform operating in Turkey. Using transaction data, the analysis explores patterns in customer purchases, product performance, and delivery outcomes.
+
+The goal is to transform raw transaction data into actionable business insights that can help improve revenue, customer retention, and operational performance.
+
+## Business Problem
 
 An e-commerce company operating in Turkey wants to:
 
@@ -13,9 +20,9 @@ An e-commerce company operating in Turkey wants to:
 
 - Improve delivery performance
 
-Management needs data-driven insights to guide strategic decisions.
+Management needs data-driven insights to support strategic decision-making.
 
-2. **Project Objectives**
+## Project Objectives
 
 This analysis aims to:
 
@@ -25,9 +32,57 @@ This analysis aims to:
 
 - Segment customers based on behavior
 
-- Evaluate delivery impact on satisfaction
+- Evaluate delivery impact on customer satisfaction
 
 - Provide actionable business recommendations
+
+## Dataset
+The dataset contains 5,000 e-commerce transactions from January 2023 to March 2024 and includes information about:
+
+- customer demographics
+
+- product categories
+
+- transaction details
+
+- website behavior
+
+- delivery performance
+
+- customer ratings
+
+Key variables include:
+
+- Product category
+
+- Order amount
+
+- Payment method
+
+- Device type
+
+- Delivery time
+
+- Customer rating
+
+- Returning vs new customer
+
+## Tools & Technologies
+
+The analysis was performed using Python and the following libraries:
+
+- Python 3.11.14
+
+- Pandas – data manipulation and analysis
+
+- NumPy – numerical operations
+
+- Matplotlib – data visualization
+
+- Seaborn – statistical data visualization
+
+- VS Code & Jupyter Notebook
+
 
 ## Contacts
 
