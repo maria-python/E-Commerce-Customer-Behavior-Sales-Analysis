@@ -3,7 +3,7 @@
 Author: Maria Ilnitska
 
 
-## Project Overview
+## Project Overview 
 
 This project analyzes customer behavior and sales performance for an e-commerce platform operating in Turkey. Using transaction data from 5,000 orders, the analysis explores patterns in purchasing behavior, product category performance, customer segmentation, and operational factors such as delivery performance.
 
