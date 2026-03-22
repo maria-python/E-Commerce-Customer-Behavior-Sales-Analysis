@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# E-Commerce Sales Performance & Customer Behavior Analysis
 
 Author: Maria Ilnitska
 
